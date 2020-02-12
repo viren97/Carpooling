@@ -1,0 +1,14 @@
+C:\viren\Carpooling\Carpooling.Services\bin\Debug\netstandard2.0\Carpooling.Services.deps.json
+C:\viren\Carpooling\Carpooling.Services\bin\Debug\netstandard2.0\Carpooling.Services.dll
+C:\viren\Carpooling\Carpooling.Services\bin\Debug\netstandard2.0\Carpooling.Services.pdb
+C:\viren\Carpooling\Carpooling.Services\bin\Debug\netstandard2.0\Carpooling.DataProvider.dll
+C:\viren\Carpooling\Carpooling.Services\bin\Debug\netstandard2.0\Carpooling.Models.dll
+C:\viren\Carpooling\Carpooling.Services\bin\Debug\netstandard2.0\Carpooling.Models.pdb
+C:\viren\Carpooling\Carpooling.Services\bin\Debug\netstandard2.0\Carpooling.DataProvider.pdb
+C:\viren\Carpooling\Carpooling.Services\obj\Debug\netstandard2.0\Carpooling.Services.csprojAssemblyReference.cache
+C:\viren\Carpooling\Carpooling.Services\obj\Debug\netstandard2.0\Carpooling.Services.csproj.CoreCompileInputs.cache
+C:\viren\Carpooling\Carpooling.Services\obj\Debug\netstandard2.0\Carpooling.Services.AssemblyInfoInputs.cache
+C:\viren\Carpooling\Carpooling.Services\obj\Debug\netstandard2.0\Carpooling.Services.AssemblyInfo.cs
+C:\viren\Carpooling\Carpooling.Services\obj\Debug\netstandard2.0\Carpooling.Services.csproj.CopyComplete
+C:\viren\Carpooling\Carpooling.Services\obj\Debug\netstandard2.0\Carpooling.Services.dll
+C:\viren\Carpooling\Carpooling.Services\obj\Debug\netstandard2.0\Carpooling.Services.pdb

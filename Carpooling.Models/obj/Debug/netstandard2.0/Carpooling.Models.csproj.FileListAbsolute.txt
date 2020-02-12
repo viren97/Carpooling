@@ -1,0 +1,11 @@
+C:\viren\Carpooling\Carpooling.Models\bin\Debug\netstandard2.0\Carpooling.Models.deps.json
+C:\viren\Carpooling\Carpooling.Models\bin\Debug\netstandard2.0\Carpooling.Models.dll
+C:\viren\Carpooling\Carpooling.Models\bin\Debug\netstandard2.0\Carpooling.Models.pdb
+C:\viren\Carpooling\Carpooling.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\viren\Carpooling\Carpooling.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\viren\Carpooling\Carpooling.Models\obj\Debug\netstandard2.0\Carpooling.Models.csproj.CoreCompileInputs.cache
+C:\viren\Carpooling\Carpooling.Models\obj\Debug\netstandard2.0\Carpooling.Models.AssemblyInfoInputs.cache
+C:\viren\Carpooling\Carpooling.Models\obj\Debug\netstandard2.0\Carpooling.Models.AssemblyInfo.cs
+C:\viren\Carpooling\Carpooling.Models\obj\Debug\netstandard2.0\Carpooling.Models.csproj.CopyComplete
+C:\viren\Carpooling\Carpooling.Models\obj\Debug\netstandard2.0\Carpooling.Models.dll
+C:\viren\Carpooling\Carpooling.Models\obj\Debug\netstandard2.0\Carpooling.Models.pdb
